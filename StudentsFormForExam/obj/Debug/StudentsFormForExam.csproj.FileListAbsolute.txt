@@ -1,0 +1,10 @@
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\obj\Debug\StudentsFormForExam.csprojAssemblyReference.cache
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\obj\Debug\StudentsFormForExam.Form1.resources
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\obj\Debug\StudentsFormForExam.Properties.Resources.resources
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\obj\Debug\StudentsFormForExam.csproj.GenerateResource.cache
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\obj\Debug\StudentsFormForExam.csproj.CoreCompileInputs.cache
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\bin\Debug\StudentsFormForExam.exe.config
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\bin\Debug\StudentsFormForExam.exe
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\bin\Debug\StudentsFormForExam.pdb
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\obj\Debug\StudentsFormForExam.exe
+C:\Users\kiara\source\repos\StudentsFormForExam\StudentsFormForExam\obj\Debug\StudentsFormForExam.pdb
